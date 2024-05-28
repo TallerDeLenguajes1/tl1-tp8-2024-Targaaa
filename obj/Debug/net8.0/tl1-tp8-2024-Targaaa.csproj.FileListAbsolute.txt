@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.sourcelink.json
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\bin\Debug\net8.0\tl1-tp8-2024-Targaaa.exe
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\bin\Debug\net8.0\tl1-tp8-2024-Targaaa.deps.json
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\bin\Debug\net8.0\tl1-tp8-2024-Targaaa.runtimeconfig.json
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\bin\Debug\net8.0\tl1-tp8-2024-Targaaa.dll
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\bin\Debug\net8.0\tl1-tp8-2024-Targaaa.pdb
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.dll
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\refint\tl1-tp8-2024-Targaaa.dll
+c:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.pdb
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\tl1-tp8-2024-Targaaa.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tl1-tp8-2024-Targaaa\obj\Debug\net8.0\ref\tl1-tp8-2024-Targaaa.dll
